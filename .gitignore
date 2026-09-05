@@ -1,0 +1,23 @@
+# MetaTrader 5 编译产物
+*.ex5
+*.ex4
+
+# MT5 数据/日志/回测缓存
+*.log
+*.htm
+*.html
+Tester/
+MQL5/Logs/
+MQL5/Files/
+
+# 系统/编辑器
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# 备份文件
+*.bak
+*.tmp
+*~
